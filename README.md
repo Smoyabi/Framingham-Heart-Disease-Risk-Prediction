@@ -320,10 +320,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Sammi Oyabi**
+- GitHub: [@Smoyabi](https://github.com/Smoyabi)
+- Email: smaoyabi@gmail.com
 
 ---
 
@@ -333,12 +332,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source community for excellent Python libraries
 - Medical professionals who continue to fight cardiovascular disease
 
----
-
-<div align="center">
-
-**⭐ If you found this project helpful, please consider giving it a star! ⭐**
-
-Made with ❤️ and Python
 
 </div>
